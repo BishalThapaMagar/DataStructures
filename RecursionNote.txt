@@ -1,0 +1,8 @@
+Recursion
+- Check terminal condition
+- Traverse to Leaf nodes with recursion i.e. Left Sub Tree and Right Sub Tree
+- Operation 
+
+- check if leaf node at every node
+- traverse to leaf nodes i.e. at the bottom (go bottom)
+- perform operation (bottom up operation)
